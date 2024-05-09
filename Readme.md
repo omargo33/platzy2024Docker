@@ -160,8 +160,7 @@ postgres:
 ```        
 
 ---
-![logo](./imagenes/logo.png)
 
-<o.velez@jardinazuayo.fin.ec>
+<o.velez>
 
 **Creado: 2024-04-25**
